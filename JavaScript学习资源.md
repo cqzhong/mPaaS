@@ -5,6 +5,8 @@ JS高级 https://www.bilibili.com/video/av27134850
 
 ES6新特性 https://www.bilibili.com/video/av58350119
 
+vue核心技术 https://www.bilibili.com/video/av49099807
+
 #### 文档资料
 ES5文档 https://wangdoc.com/javascript/index.html
 
