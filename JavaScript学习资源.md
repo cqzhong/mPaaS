@@ -25,3 +25,17 @@ JS特性理解 第二部分 https://segmentfault.com/a/1190000000406574
 
 #### 蚂蚁金服mPaaS平台
 kylin框架开发文档 https://tech.antfin.com/docs/2/72599
+
+#### Angular学习资源
+https://angular.cn/start#input
+
+#### Angular VScode插件
+> 公司不让用盗版软件 电脑性能不行带不动webstorm 还是vscode牛皮
+1. TSLint：Typescript语法检查
+2. Prettier：代码格式化
+3. IntelliJ IDEA Keybindings：IDEA风格的快捷键
+4. Angular 7 Snippets：Angular语法填充（标签）
+5. Angular Files：生成Angular的文件模板（Component、Module、Pipe等等）
+6. Angular Follow Selector：文件跳转（Component跳转到html、scss文件）
+7. Angular Language Service：引用填充和跳转到定义（html中进行引用补全）
+8. Debugger for Chrome：调试Angular代码
